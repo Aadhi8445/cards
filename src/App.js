@@ -81,7 +81,7 @@ export default function App() {
               <p className="title"> {detail.line8} </p>
 
               <Button variant="contained" color="primary">
-                Primary
+                Button
               </Button>
             </div>
           </Card>
